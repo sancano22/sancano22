@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sandra cano</h1>
-<h3 align="center">A passionate teacher of informatic from Chile</h3>
+<h1 align="center">Hi 👋, I'm Sandra Cano</h1>
+<h3 align="center">A passionate developer and teacher at Pontificia Universidad Católica de Valparaíso, Escuela de Ingeniería Informática</h3>
 
 <p align="left">
 </p>
