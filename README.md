@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandra Cano</h1>
 <h3 align="center">A passionate developer and teacher at Pontificia Universidad Católica de Valparaíso, Escuela de Ingeniería Informática</h3>
 
-<p align="left">
-</p>
-
-
 <h3 align="left">Programming Languages</h3>
 <ul style="list-style-type: none;display:flex">
 <li><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </li>
