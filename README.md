@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandra Cano</h1>
-<h3 align="center">A passionate developer and teacher at Pontificia Universidad Católica de Valparaíso, Escuela de Ingeniería Informática</h3>
+<h3 align="center">A passionate developer and teacher at Pontificia Universidad Católica de Valparaíso, School of Computer Engineering</h3>
 
 <h3 align="left">Programming Languages</h3>
 <p align=left>
