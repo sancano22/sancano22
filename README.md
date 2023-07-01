@@ -65,6 +65,7 @@
 <h3 align="left">AI/ML</h3>
 <p align=left>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+ <a href="https://rasa.com/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg](https://github.com/RasaHQ/rasa-custom-outlierfeatures/blob/master/square-logo.svg)https://github.com/RasaHQ/rasa-custom-outlierfeatures/blob/master/square-logo.svg" alt="opencv" width="40" height="40"/></a>
 </p>
 
 
